@@ -13,7 +13,11 @@ On my profile you will notice a few projects I've done in my spare time, lets ch
 ```javascript
 loadProjects();
 ```
-
 #### Projects:
- [Checkers](https://github.com/Cameronl14320/Checkers)
-
+- [Epic7 Helper](https://github.com/Cameronl14320/epic7-helper)
+ 
+- [Checkers](https://github.com/Cameronl14320/Checkers)
+ 
+- [Website](https://github.com/Cameronl14320/PersonalWebsite)
+ 
+- [AUPlug](https://github.com/Cameronl14320/AUPlug)

@@ -20,4 +20,3 @@ loadProjects();
  
 - [Website](https://github.com/Cameronl14320/PersonalWebsite)
  
-- [AUPlug](https://github.com/Cameronl14320/AUPlug)

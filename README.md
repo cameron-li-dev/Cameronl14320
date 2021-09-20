@@ -4,7 +4,7 @@ Welcome to my profile, here have some tea! :tea:
 Now while you're relaxed, here's some stuff about me.
 
 #### What to know:
-I am a second year computer science student currently studying at Victoria University of Wellington.
+I am a third year computer science student currently studying at Victoria University of Wellington.
 
 My hobbies include video games, drawing, and of course **coding**!
 

@@ -11,7 +11,14 @@ My hobbies include video games, drawing, and of course **coding**!
 On my profile you will notice a few projects I've done in my spare time, lets check them out!
 
 ```javascript
-loadProjects();
+const loadProjects = ({projects}) => {
+    console.log('Projects:');
+    projects.forEach((project) => {
+        console.log('\t- [' + project.name + '](' + project.url' + ')\n');
+    });
+};
+
+loadProjects(projects);
 ```
 #### Projects:
 - [Epic7 Helper](https://github.com/Cameronl14320/epic7-helper)

@@ -14,7 +14,7 @@ On my profile you will notice a few projects I've done in my spare time, lets ch
 const loadProjects = ({projects}) => {
     console.log('Projects:');
     projects.forEach((project) => {
-        console.log('\t- [' + project.name + '](' + project.url' + ')\n');
+        console.log(project);
     });
 };
 

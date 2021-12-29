@@ -4,7 +4,7 @@ Welcome to my profile, here have some tea! :tea:
 Now while you're relaxed, here's some stuff about me.
 
 #### What to know:
-I am a developer with a passion for front-end development and have experience using React and Angular for mobile first web applications.
+I am a developer with a passion for front-end development and have experience using React and Angular for mobile-first single page applications.
 
 My hobbies include video games, drawing, and of course **coding**!
 

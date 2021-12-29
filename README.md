@@ -21,9 +21,6 @@ const loadProjects = ({projects}) => {
 loadProjects(projects);
 ```
 #### Projects:
-- [Epic7 Helper](https://github.com/Cameronl14320/epic7-helper)
- 
 - [Checkers](https://github.com/Cameronl14320/Checkers)
- 
-- [Website](https://github.com/Cameronl14320/PersonalWebsite)
+
  
